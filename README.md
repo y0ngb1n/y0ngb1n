@@ -1,8 +1,7 @@
 <h1 align="center">
-
-  ![Fancy logo](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30&color=FFF#gh-dark-mode-only)
-  ![Fancy logo](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30&color=222#gh-light-mode-only)
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
