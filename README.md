@@ -38,7 +38,7 @@
 
 ## 👨‍💻 Commit Graph
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=y0ngb1n&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=y0ngb1n&theme=dracula&hide_border=true)
 
 ## 🎰 GitHub Stats
 
